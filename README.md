@@ -54,13 +54,3 @@ Filters: Store, Date, Product
 Save the .pbix file for future refreshes
 
 
-📂 Files in This Project
-bash
-Copy
-Edit
-DMart-Sales-Dashboard/
-├── DMart Data Store.xlsx         # Daily input Excel file
-├── setup_dmartdb.sql            # SQL DB + procedures setup
-├── import_dmart_data.py         # Python data ingestion script
-├── DMart_Dashboard.pbix       # Power BI report file
-└── README.md                    # Documentation
